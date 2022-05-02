@@ -1,0 +1,13 @@
+.login-page{
+    color: var(--text-color);
+    letter-spacing: 0.5px;
+}
+
+.login-page button{
+    background-image: radial-gradient(ellipse at center bottom, var(--liliac) 20%, var(--bg-color) 70%);
+    border: 1px solid var(--liliac);
+    height: 3em;
+    width: 15em;
+    color: var(--text-color);
+    letter-spacing: 0.5px;
+}

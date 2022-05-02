@@ -1,0 +1,40 @@
+.category{
+    overflow: hidden;
+    position: relative;
+    padding: 50px;
+    width: 75%;
+    height: 20em;
+    box-shadow: rgba(179, 156, 177, 1) 0px 25px 20px -20px;
+    border-radius: 0.3em;
+    font-family: var(--text-font);
+    font-size: 0.8em;
+    letter-spacing: 0.5px;
+    font-weight: 600;
+    color: var(--text-color);
+    z-index: 1;
+}
+
+.bg-image{
+    position: absolute;
+    left:0;
+    bottom:0;
+    width: 100%;
+    height: auto;
+    opacity: 0.4;
+    z-index: -1;
+}
+
+.category button{
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    border: none;
+    font-family: var(--text-font);
+    font-size: 1.5em;
+    font-weight: 500;
+    padding: 2% 5%;
+    background-color: var(--green-color);
+    background-color: var(--bright-green);
+    color: var(--bg-color);
+    border-radius: 3px;
+   
+}

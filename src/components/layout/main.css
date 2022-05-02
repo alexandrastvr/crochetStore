@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Aladin&family=Architects+Daughter&family=Armata&family=DM+Serif+Display&family=Meddon&family=Saira:wght@100&display=swap');
+:root{
+    --green-color: #565B33;
+    --bright-green: #98A25D;
+    --liliac: #b39cb1;
+    --dark-liliac: #615360;
+    --text-color: #2B192D;
+    --bg-color: #F8F5F7;
+    --text-font: 'Armata', sans-serif;
+}
+body{
+    background-color: var(--bg-color);
+    font-family: var(--text-font);
+    color: var(--text-color);
+}
+.App{
+    background-color: var(--bg-color);
+    z-index: -1;
+}
+.layout {
+    position: relative;
+    min-height: 100vh;
+}
+.page-content{
+    padding: 1em 0em 12em 0em;
+    font-family: var(--text-font);
+    color: var(--text-color);
+}

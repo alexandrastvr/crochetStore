@@ -1,0 +1,122 @@
+{
+    "fire de crosetat": {
+        "items": [
+            {
+                "id": 1,
+                "name": "Fir subțire de bumbac iuni",
+                "price": 20,
+                "currency": "LEI",
+				"weight": 100,
+                "image": "https://imgur.com/QbDe9rP.jpg",
+                "colours": ["Negru","Alb","Bej","Siclam","Verde","Mov"],
+                "material": "Bumbac",
+                "description": "Fir subțire de bumbac recomandat pentru articole de vară sau dantele fines."
+            },
+            {
+                "id": 2,
+                "name": "Fir subțire din amestec cu in",
+                "price": 40,
+                "currency": "LEI",
+				"weight": 50,
+                "image": "https://imgur.com/lW5IFBo.jpg",
+                "colours": ["Negru","Alb","Bej","Roz","Verde pastel"],
+                "material": "Amestec In",
+                "description": "Fir subțire din amestec de bumbac(60%) cu in(40%) pentru nădragi de plajă."
+            },
+            {
+                "id": 3,
+                "name": "Fir mediu multicolor cu lână în compoziție",
+                "price": 42,
+                "currency": "LEI",
+				"weight": 50,
+                "image": "https://imgur.com/lC3T1Md.jpg",
+                "colours": ["Multicolor"],
+                "material": "Bumbac",
+                "description": "Fir de curcubeu compus din acrilic (30%) și lână (70%) să-ți aduca vara iarna!"
+            }
+        ],
+        "image": "https://imgur.com/6znhCIJ.jpg",
+        "name": "Fire de croșetat",
+        "description": "Bumbac, in și alte fire alese: alege si vezi ce iese!"
+    },
+    "accesorii": {
+        "items": [
+            {
+                "id": 4,
+                "name": "Set croșete 3-6 mm",
+                "price": 70,
+                "currency": "LEI",
+				"weight": null,
+                "image": "https://imgur.com/KrANLfj.jpg",
+                "colours": [],
+                "material": "Metal, plastic",
+                "description": "Set de croșete de dimensiuni medii - toate mărimile de la 3mm la 6mm"
+            },
+            {
+                "id": 5,
+                "name": "Set croșete subțiri 0.5-3 mm",
+                "price": 80,
+                "currency": "LEI",
+				"weight": null,
+                "image": "https://imgur.com/Rmibef6.jpg",
+                "colours": [],
+                "material": "Metal",
+                "description": "Set de croșete subțiri pentru lucru ăl mai fin - de la 0.5mm la 3mm din 0.2mm în 0.2mm."
+            },
+            {
+                "id": 6,
+                "name": "Set de andrele",
+                "price": 50,
+                "currency": "LEI",
+				"weight": null,
+                "image": "https://imgur.com/kwaKKAy.jpg",
+                "colours": [],
+                "material": "Metal",
+                "description": "Set de andrele măsura 7, potrivit pentru începători"
+            },
+            {
+                "id": 7,
+                "name": "Pachețel cu markere și ace de cusut",
+                "price": 25,
+                "currency": "LEI",
+				"weight": null,
+                "image": "https://imgur.com/XP6aD9H.jpg",
+                "colours": [],
+                "material": "Plastic",
+                "description": "Pachețel cu 10 markere multicolore și ace de cusut cu ochiuri mari, din plastic, numai bune pentru terminat lucrul și ascuns firele rămase!"
+            }
+        ],
+        "image": "https://imgur.com/WuNzjim.jpg",
+        "name": "Accesorii",
+        "description": "Croșete, andrele, markere, tot!"
+    },
+    "tutoriale": {
+        "items": [
+            {
+                "id": 8,
+                "name": "Șal dantelat multicolor",
+                "price": 30,
+                "currency": "LEI",
+				"weight": null,
+                "image": "https://imgur.com/pMhxese.jpg",
+                "colours": [],
+                "material": null,
+                "description": "Tutorial pentru șal dantelat multicolor croșetat pentru mărimile XS - XXL"
+            },
+            {
+                "id": 9,
+                "name": "Pulover tricotat cu mâneci bufante",
+                "price": 40,
+                "currency": "LEI",
+				"weight": null,
+                "image": "https://imgur.com/LiUzx1Y.jpg",
+                "colours": [],
+                "material": null,
+                "description": "Tutorial pentru pulover deosebit cu mâneci ușor bufante, măsurile XS-XXL"
+            }
+        ],
+        "image": "https://imgur.com/LsOjUvK.jpg",
+        "name": "Tutoriale",
+        "description": "Tutoriale să te inspire! Pachetul conține un PDF cu instrucțiuni și material video"
+    }
+}

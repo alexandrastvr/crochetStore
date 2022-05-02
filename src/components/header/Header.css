@@ -1,0 +1,25 @@
+.menu{
+    height: 2em;
+    border-top: 2px solid var(--text-color);
+    border-bottom: 2px solid var(--text-color);
+    border-image: linear-gradient(to right, var(--bg-color), var(--text-color), var(--bg-color)) 1;
+}
+.menu span {
+    font-size: 0.8em;
+    color: var(--text-color);
+    font-weight: 500;
+    font-family: var(--text-font);
+    
+}
+.login-text{
+    font-size: 0.8em;
+    font-family: var(--text-font);
+    color: var(--text-color);
+    font-weight: 500;
+}
+.brand-name{
+    font-size: 5em;
+    font-family: 'Aladin', cursive;
+    color: var(--green-color);
+    color: var(--dark-liliac);
+}

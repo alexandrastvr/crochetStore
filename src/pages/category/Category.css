@@ -1,0 +1,5 @@
+.category-page h2{
+    font-family: var(--text-font);
+    font-size: 2em;
+    letter-spacing: 1.5px;
+}
