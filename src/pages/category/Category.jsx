@@ -11,9 +11,14 @@ class Category extends React.Component {
     }
   }
 
+  componentDidUpdate(prevProps){
+    if(this.props.match.params.categoryName!==prevProps.match.params.categoryName){
+      this.setState({category:products[this.props.match.params.categoryName]});
+    }
+  }
+
   componentDidMount(){
     const routeParam = this.props.match.params.categoryName;
-    console.log(this.props);
     this.setState({category:products[routeParam]});
   }
 

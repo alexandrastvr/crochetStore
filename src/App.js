@@ -27,7 +27,7 @@ function App() {
   return (
     <div className="App">
       <Switch>
-        <Route exact path="/category/:categoryName" component={Category}/>
+        <Route exact path="/category/:categoryName" component={Category }/>
         <Route exact path="/product/:productId" component={Product}/>
         <Route exact path="/" component={Home}/>
         <Route exact path="/login" component={Login}/>
