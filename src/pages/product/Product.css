@@ -3,7 +3,6 @@
     box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
     border-radius: 0.5em;
     font-size: 0.7em;
-    padding: 5px;
 }
 .item img{
     border-radius: 0.3em;
@@ -17,7 +16,11 @@
 .item div:nth-child(2){
     position: relative;
 }
-.item button{
+/* .item button{
     position: absolute;
     bottom: 5px;
+} */
+
+.info {
+    width: 350px;
 }
